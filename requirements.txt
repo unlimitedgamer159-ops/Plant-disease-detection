@@ -1,0 +1,11 @@
+flask==3.0.0
+werkzeug==3.0.1
+Pillow==10.2.0
+numpy==1.26.3
+tensorflow==2.15.0
+
+# For training notebook (Colab)
+# kaggle
+# matplotlib
+# seaborn
+# scikit-learn
